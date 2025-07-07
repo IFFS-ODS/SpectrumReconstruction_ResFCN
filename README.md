@@ -11,11 +11,14 @@
 
 ## Requirements
 
-- TensorFlow 2.x
-- Keras
-- NumPy
-- Matplotlib
-- Scikit-learn
+- CUDA 11.2
+- Python 3.8.x
+- TensorFlow 2.9.0 (GPU version)
+- Keras 2.9.0
+- NumPy 1.24.3
+- Matplotlib 3.7.2
+- Scikit-learn 1.3.0
+- Pandas 2.0.3
 
 ## Installation
 
